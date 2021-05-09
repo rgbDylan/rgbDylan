@@ -1,8 +1,8 @@
-### Hey! I'm Dylan!
+## Hello, I'm Dylan!
 
-- 🔭 I’m making various Websites, Homebrews and sometimes other things when I feel it.
+- 🔭 I’m making various Websites, Homebrews and sometimes other things when I feel like it.
 - 🌱 I’m currently learning NodeJS, Rust and Python!
-- 🤔 I’m looking for help with my Project, Nodeverse.
+- 🤔 If you have any tips with NodeJS, tell me out!
 - 📫 Contact me: [Dylan](mailto:izkiucontactpro@gmail.com)
 - 🤝 Pronouns: He/Him
 - ⚡ Fun fact: I hate Pizzas.
