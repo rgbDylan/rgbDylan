@@ -1,7 +1,7 @@
 ## Hello, I'm Dylan!
 
-- 🔭 I’m making various Websites, Homebrews and sometimes other things when I feel like it.
-- 🌱 I’m currently learning NodeJS, Rust and Python!
+- 🔭 I don't code much, only got few basics (for now? idk)
+- 🇫🇷 17yo from France
 - 🤔 If you have any tips with NodeJS, tell me out!
 - 📫 Contact me: [Dylan](mailto:izkiucontactpro@gmail.com)
 - 🤝 Pronouns: He/Him
